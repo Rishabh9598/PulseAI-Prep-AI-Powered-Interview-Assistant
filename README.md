@@ -74,7 +74,7 @@ This platform helps candidates prepare for interviews by simulating live session
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/TuShArBhArDwA/PulseAI
+https://github.com/Rishabh9598/PulseAI-Prep-AI-Powered-Interview-Assistant/
 cd PulseAI
 npm install
 ```
@@ -128,11 +128,3 @@ http://localhost:3000
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## Contact
-- **Meet T-Bot** - [Discover My Work](https://t-bot-blush.vercel.app/)
-- **Tushar Bhardwaj** - [Portfolio](https://tushar-bhardwaj.vercel.app/)
-- **Connect 1:1** - [Topmate](https://topmate.io/tusharbhardwaj)
-- **GitHub:** [TuShArBhArDwA](https://github.com/TuShArBhArDwA)
-- **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004/)
-- **Email:** [tusharbhardwaj2617@example.com](mailto:tusharbhardwaj2617@example.com)
